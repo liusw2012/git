@@ -1,0 +1,21 @@
+git commands
+
+git add 
+git commit
+git log
+git status
+git branch
+git checkout
+git switch
+git reset
+git remote add origin https://github.com/liusw2012/git.git
+git remote -v
+
+git push -u origin master
+git push
+git pull origin master
+git branch --set-upstream-to=origin/master master
+git pull
+
+git config --global
+git config -l
